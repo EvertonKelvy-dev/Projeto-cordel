@@ -71,7 +71,7 @@ section.imagem > p{
     display: inline-block;
     padding: 10px;
     text-shadow: 1px 1px 1px black;
-    box-shadow: inset 6px 6px 13px 0px black;
+    
 }
 section > p{
     padding-bottom:2em;
